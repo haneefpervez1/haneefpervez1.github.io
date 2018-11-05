@@ -16,6 +16,8 @@
     "react-vis": "^1.11.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -23,5 +25,6 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  }
+  },
+  "homepage": "https://haneefpervez1.github.io/haneefpervez1.github.io-bike-app/"
 }
