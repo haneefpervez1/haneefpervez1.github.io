@@ -1,5 +1,5 @@
 # CapitalOne Winter 2019 Summit Submission
-This is my submission for the CapitalOne Winter 2019 Summit: [https://haneefpervez1.github.io/](https://haneefpervez1.github.io/)
+This is my submission for the CapitalOne Winter 2019 Summit: [http://haneefpervezbikeapp.surge.sh/](http://haneefpervezbikeapp.surge.sh/)
 ## Built With:
 * [React](https://reactjs.org/) for Front End
 * [PapaParse](https://www.papaparse.com/) for parsing csv file
